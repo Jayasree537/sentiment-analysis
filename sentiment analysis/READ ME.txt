@@ -1,0 +1,7 @@
+# Sentiment Analysis Tool
+
+## Overview
+This project is a sentiment analysis tool that classifies text data as positive or negative.
+
+## Installation
+1. Clone the repository:

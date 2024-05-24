@@ -1,0 +1,43 @@
+text,sentiment
+"This is the worst movie I have ever seen.",Negative
+"The movie was okay, not too bad.",neutral
+"What a fantastic experience!",Positive
+"I am not impressed with this film.",Negative
+"It was a mediocre film.",neutral
+"Absolutely loved it!",Positive
+"Terrible, just terrible.",Negative
+"i love the movie",Positive
+"i love the climate",Positive
+"i love everything.",Positive
+"It was alright, nothing special.",neutral
+"I'm feeling great today!",Positive
+"Today is a wonderful day!",Positive
+"I'm so happy right now!",Positive
+"I'm not sure how I feel about that.",neutral
+"I'm feeling indifferent",neutral
+"It's just a regular day.",neutral
+"I'm feeling down today.",Negative
+"Today was a tough day.",Negative
+"I had a good day",Positive
+"I'm feeling low today",Negative
+"I'm not feeling very Positive right now.",Negative
+"I'm having a bad day.",Negative
+"Feeling really,Negative right now.",Negative
+"This is the worst movie I have ever seen",Positive
+"I'm feeling good.",Positive
+"I'm not sure how I feel about that.",neutral
+"It's just a regular day.",neutral
+"I had a bad day today.",Negative
+"Enjoying a beautiful day at the park!",Positive  
+"Traffic was terrible this morning.",Negative  
+"Just finished an amazing workout!",Positive  
+"Excited about the upcoming weekend getaway!",Positive  
+"Trying out a new recipe for dinner tonight.",neutral   
+"Feeling grateful for the little things in life.",Positive  
+"Rainy days call for cozy blankets and hot cocoa.",Positive  
+"The new movie release is a must-watch!",Positive  
+"Political discussions heating up on the timeline.",Negative  
+"Missing summer vibes and beach days",neutral   
+"Just published a new blog post. Check it out!",Positive  
+"Feeling a bit under the weather today.",Negative  
+"Exploring the city's hidden gems.",Positive  
